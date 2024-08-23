@@ -1,5 +1,4 @@
-struct S Tharun :Developer {
-    def __init__(self):
+ def __init__(self):
         self.name = "S Tharun"
         self.pronouns = "he/him"
         self.location = "India"
