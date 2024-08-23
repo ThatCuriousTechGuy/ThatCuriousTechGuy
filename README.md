@@ -12,7 +12,7 @@ struct S Tharun :Developer {
         self.fav os= ["Windows"]
 
     def find_inner_peace(self):
-        print("🧘‍♂️ Seeking balance in bytes and tranquility in code.")
+        print("🧘‍♂️ Seeking balance in bytes and tranquility in code.")                    
 
     def explore_ai(self):
         print("🤖 Fascinated by AI development and neural networks.")
