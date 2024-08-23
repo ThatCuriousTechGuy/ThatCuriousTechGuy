@@ -1,4 +1,6 @@
 
+ 
+ 
  class Developer: 
         self.me = "Aspiring Programmer | Passionate about Development | Student | Interested In Physical Sciences"
         self.langs = ["C++", "Python"]
