@@ -1,12 +1,11 @@
  class Developer: 
         
         
-        self.me = "Aspiring Programmer | Passionate about Development | Student | Interested In Physical Sciences"
-        self.langs = ["C++", "Python"]
-         self.name = "S Tharun"
+        self.name = "S Tharun"
         self.pronouns = "he/him"
         self.location = "India"
-
+        self.me = "Aspiring Programmer | Passionate about Development | Student | Interested In Physical Sciences"
+        self.langs = ["C++", "Python"]
         self.frontend = ["HTML", "CSS"]
         self.tools = ["Git", "VS Code"]
         self.fav_os = ["Windows"]
