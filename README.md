@@ -1,4 +1,4 @@
-class Developer:
+struct S Tharun :Developer {
     def __init__(self):
         self.name = "S Tharun"
         self.pronouns = "he/him"
@@ -21,4 +21,4 @@ class Developer:
         print("✨ Crafting elegant solutions with a touch of creativity.")
 
   func greet() {
-        print("Hey, thanks for a look over here, you may Feel free to explore my projects 🚀") }
+        print("Hey, thanks for a look over here, you may Feel free to explore my projects 🚀") } }
