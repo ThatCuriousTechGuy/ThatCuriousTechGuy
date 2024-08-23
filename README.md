@@ -7,7 +7,7 @@ class Developer:
         self.me= "Aspiring Programmer" | "Passionate about Development" | "Student" | "Interested In Physical Sciences"
         self.langs = ["C++", "Python"]
 
-        self.frontend = [ "HTML", "CSS"]
+        self.frontend = [ "HTML", "CSS"] 
         self.tools = ["Git", "VS Code"]
         self.fav os= ["Windows"]
 
