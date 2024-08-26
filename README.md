@@ -27,11 +27,11 @@
         print("Hey, thanks for a look over here, you may Feel free to explore my projects 🚀") } 
 
 ##
-Greetings, It's A Great Pleasure To Meet You!, I'm  S Tharun  From  India  Interested  In  Programming  and  Developing  Useful  Things.
-I'm  Also  A  Passionate  Developer  With  Intermediate  Experience  In Python  And  An  Active  Learner  Of  Other  Langs  And   Frameworks
-I'm  Also  Interested  In  Physical  Sciences, UI, UX Design  And  Content Creation
-Learning  New  Languages  And  Frameworks  Are  My  Keen  Interests  And  I'm  Good  In  English  And  Learing  Italian  And  Spanish
-I'm  Also  A  Contributor and  a member   @ScribbleLab  Where  We  Develop  An  Awesome  All  In  One  App  For  Students  And  Work  Hard  To  Make  Students  Life  Better
+Greetings, It's A Great Pleasure To Meet You!, I'm  S Tharun  From  India  Interested  In  Programming  and  Developing  Useful  Things. 
+ I'm  Also  A  Passionate  Developer  With  Intermediate  Experience  In Python  And  An  Active  Learner  Of  Other  Langs  And   Frameworks
+ I'm  Also  Interested  In  Physical  Sciences, UI, UX Design  And  Content Creation
+ Learning  New  Languages  And  Frameworks  Are  My  Keen  Interests  And  I'm  Good  In  English  And  Learing  Italian  And  Spanish
+ I'm  Also  A  Contributor and  a member   @ScribbleLab  Where  We  Develop  An  Awesome  All  In  One  App  For  Students  And  Work  Hard  To  Make  Students  Life  Better
 
 
 ## My Current Projects:
