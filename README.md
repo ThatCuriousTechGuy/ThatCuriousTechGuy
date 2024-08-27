@@ -27,26 +27,30 @@
         print("Hey, thanks for a look over here, you may Feel free to explore my projects 🚀") } 
 
 ##
-Greetings, It's A Great Pleasure To Meet You!, I'm  S Tharun  From  India  Interested  In  Programming  and  Developing  Useful  Things. 
- I'm  Also  A  Passionate  Developer  With  Intermediate  Experience  In Python  And  An  Active  Learner  Of  Other  Langs  And   Frameworks
- I'm  Also  Interested  In  Physical  Sciences, UI, UX Design  And  Content Creation
- Learning  New  Languages  And  Frameworks  Are  My  Keen  Interests  And  I'm  Good  In  English  And  Learing  Italian  And  Spanish
- I'm  Also  A  Contributor and  a member   @ScribbleLab  Where  We  Develop  An  Awesome  All  In  One  App  For  Students  And  Work  Hard  To  Make  Students  Life  Better
+Greetings, It's A Great Pleasure To Meet You!, I'm  S Tharun  From  India  Interested  In  Programming  and  Developing  Useful  Things.<br>
+ I'm  Also  A  Passionate  Developer  With  Intermediate  Experience  In Python <br>
+ Active Learner Of <b> C,C++,C#,Swift,Js</b><br>
+ I'm  Also  Interested  In  <b>Physical  Sciences, UI, UX Design  And  Content Creation</b><br>
+ Learning  New  Languages  And  Frameworks  Are  My  Keen  Interests<br>
+ I'm  Good  In  English  And Currently Learning  Italian  And  Spanish <br>
+ I'm The Founder And Developer Of [Spectra Foundation](https://github.com/SpectraFoundation)<br>
+ Where I'm Developing A Powerful All In One Calculator For Ay Calculations With Ease<br>
+ I'm  Also  A  Contributor and  a member @ [Scribble Lab](https://github.com/ScribbleLabApp)<br>Where  We  Develop  An  Awesome  All  In  One  App  For  Students  And  Work  Hard  To  Make  Students  Life  Better
 
 
 ## My Current Projects:
-SpectraSolver:  A  Robust  And  Powerful  All  In  One  Scientific  Calculator  Using  C++  and  Python
+<b>Spectra Foundation</b>: A Powerful C++,Python Library For Calculations Made Easy For any Workflow with ease  
+<b>SpectraSolver</b>:  A  Robust  And  Powerful  All  In  One  Scientific  Calculator  Using  C++  and  Python
 
 ## Anything Else?
 I  would  ask  you  to  feel  free  to  look  over  my  work  without  any  hesitation.
 It  Is  Glad  That  You're  Viewing  My  Work
- If  you're  Interested  In  Collaboration  (For Scribblelab etc..)  Or  Want  To  Contact  I'm  Always  Availoable
-Feel  Free  To  Contact  Me  At  Any  Of  The  Mode  Of  Communication   Below:
-Mail: tharuntechguy@gmail.com
+ If  you're  Interested  In  Collaboration  (For Scribblelab , Spectra Foundation etc..)  Or  Want  To  Contact  I'm  Always  Availoable
+Feel  Free  To  Contact  Me  At  Any  Of  The  Mode  Of  Communication   Below:<br>
+Mail: tharuntechguy@gmail.com<br>
+<b>Discord: @thatalonetechguy</b><br>
 
-Discord: @thatalonetechguy
-
-Feel  Free  To  Contact  Me  Regardless  Of  Anything,  Ready  To  Discuss  About  Anything  And  Have  A  Friendly  Chat
+Feel  Free  To  Contact  Me  Regardless  Of  Anything,  Ready  To  Discuss  About  Anything  And  Have  A  Friendly  Chat :)
         
 
         
