@@ -12,6 +12,7 @@
         self.langs = ["C++", "Python"]
         self.frontend = ["HTML", "CSS"]
         self.tools = ["Git", "VS Code"]
+        self.learning=["C++","C#","Js","SQL","Swift","Js Frameworks"]
         self.fav_os = ["Windows"]
 
     def find_inner_peace(self):
@@ -30,7 +31,7 @@
 Greetings, It's A Great Pleasure To Meet You!, I'm  S Tharun  From  India  Interested  In  Programming  and  Developing  Useful  Things.<br>
  I'm  Also  A  Passionate  Developer  With  Intermediate  Experience  In Python <br>
  Active Learner Of <b> C,C++,C#,Swift,Js</b><br>
- I'm  Also  Interested  In  <b>Physical  Sciences, UI, UX Design  And  Content Creation</b><br>
+ I'm  Also  Interested  In  <b>Physical  Sciences, UI, UX Design  Content Creation,AI, ML, Deep Learning, Side Hustles</b><br>
  Learning  New  Languages  And  Frameworks  Are  My  Keen  Interests<br>
  I'm  Good  In  English  And Currently Learning  Italian  And  Spanish <br>
  I'm The Founder And Developer Of [Spectra Foundation](https://github.com/SpectraFoundation)<br>
