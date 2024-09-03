@@ -28,12 +28,12 @@
         print("Hey, thanks for a look over here, you may Feel free to explore my projects 🚀") } 
 
         ##
-👨‍💻 Passionate about programming, physics, and chemistry.<b>
-📈 Enthusiast of productivity tools and techniques.<b>
-🤖 Interested in AI, deep learning, and designing.<b>
-💡 Working on Scribble Lab, an open-source project.<b>
-🌟 Founder of Spectra Foundation, developing a free, open-source calculator.<b>
-🌿 Striving to create meaningful and peaceful solutions for everyone.<b>
+👨‍💻 Passionate about programming, physics, and chemistry.<br>
+📈 Enthusiast of productivity tools and techniques.<br>
+🤖 Interested in AI, deep learning, and designing.<br>
+💡 Working on Scribble Lab, an open-source project.<br>
+🌟 Founder of Spectra Foundation, developing a free, open-source calculator.<br>
+🌿 Striving to create meaningful and peaceful solutions for everyone.<br>
 
 ##
 Greetings, It's A Great Pleasure To Meet You!, I'm  S Tharun  From  India  Interested  In  Programming  and  Developing  Useful  Things.<br>
