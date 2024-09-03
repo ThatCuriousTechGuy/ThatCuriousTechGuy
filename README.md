@@ -27,6 +27,14 @@
      func greet() {
         print("Hey, thanks for a look over here, you may Feel free to explore my projects 🚀") } 
 
+        ##
+👨‍💻 Passionate about programming, physics, and chemistry.
+📈 Enthusiast of productivity tools and techniques.
+🤖 Interested in AI, deep learning, and designing.
+💡 Working on Scribble Lab, an open-source project.
+🌟 Founder of Spectra Foundation, developing a free, open-source calculator.
+🌿 Striving to create meaningful and peaceful solutions for everyone.
+
 ##
 Greetings, It's A Great Pleasure To Meet You!, I'm  S Tharun  From  India  Interested  In  Programming  and  Developing  Useful  Things.<br>
  I'm  Also  A  Passionate  Developer  With  Intermediate  Experience  In Python <br>
